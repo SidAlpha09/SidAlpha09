@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Siddharth Sharma
 - 👀 A Web developer having an engineering degree in Computer Science and Engineering.
-- 🌱 Currently Working on MERN Stack.
+- ➡JAVA,Python,Django,mySQL are the go to skills currently possessed
+- 🌱 Currently Working on anything I can learn.
 - 💞 Developing the skills needed to survive.
 - Want to connect!!: https://siddharthsharma.carrd.co/
 
